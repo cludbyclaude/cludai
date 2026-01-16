@@ -27,11 +27,11 @@ python bot.py
 
 ## Bot Personality
 
-Clud is configured with a custom system prompt that makes it [describe personality - helpful/humorous/technical/etc]. See `config.py` for the full prompt.
+Clud is configured with a custom system prompt that makes it [describe personality - immature/humorous/nonchalant/etc]. See `config.py` for the full prompt.
 
 ## Example Interactions
 
-See the `screenshots/` folder for examples of Clud responding to various mentions and conversations.
+See @AI_clud on X for examples of Clud responding to various mentions and conversations.
 
 ## Technical Details
 
